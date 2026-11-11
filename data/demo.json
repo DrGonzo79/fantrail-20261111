@@ -1,0 +1,8 @@
+{"fictional":true,"event":"DemoCon 2026","stops":[
+  {"id":"lantern-yard","name":"Lantern Yard","brand":"Northstar+","zone":"Gaslamp North","minutes":28,"open":10,"close":18,"featured":true,"code":"GLOW"},
+  {"id":"level-up","name":"Level Up Lounge","brand":"Echo Audio","zone":"Gaslamp North","minutes":35,"open":11,"close":20,"featured":false,"code":"ECHO"},
+  {"id":"orbit-lab","name":"Orbit Lab","brand":"Red Planet Games","zone":"Harbor","minutes":25,"open":9,"close":17,"featured":true,"code":"MARS"},
+  {"id":"noodle-mart","name":"Noodle Mart","brand":"Maru Foods","zone":"Harbor","minutes":20,"open":12,"close":21,"featured":false,"code":"SLUR"},
+  {"id":"creator-court","name":"Creator Court","brand":"Panel House","zone":"East Village","minutes":40,"open":10,"close":19,"featured":false,"code":"MAKE"},
+  {"id":"star-park","name":"Star Park","brand":"Pixel Forge","zone":"East Village","minutes":30,"open":13,"close":22,"featured":true,"code":"STAR"}
+]}
