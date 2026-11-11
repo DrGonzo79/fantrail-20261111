@@ -20,7 +20,7 @@ jobs:
       - run: npm ci
       - run: npm run typecheck
       - run: npm audit --audit-level=high
-      - run: npx playwright install --with-deps chromium
+      - run: npx playwright install chromium
       - run: npm run test:e2e
       - uses: astral-sh/setup-uv@v6
         with: {version: "0.9.7", python-version: "3.13"}
@@ -47,4 +47,3 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
-
